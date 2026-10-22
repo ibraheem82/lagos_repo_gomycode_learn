@@ -1,0 +1,8 @@
+A branch is an independent line of development a moveable pointer to a commit.
+
+Think of it like a parallel universe ofr your project:
+
+ -> main keeps your stable, working code.
+ -> You create feature-login to build something new
+ -> If it works -> merge it back
+ 
